@@ -1,0 +1,40 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTest
+.pytest_cache/
+
+
+
+# Logs
+logs/
+*.log
+
+# IDE - VS Code
+.vscode/
+
+# IDE - PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Coverage
+.coverage
+htmlcov/
+
+# Environment Variables
+.env
+.env.*
+
+# Temporary Files
+*.tmp
+*.temp
